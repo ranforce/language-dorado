@@ -1,6 +1,6 @@
 {
   "name": "language-dorado",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "atom language package for Dorado view.xml ext file",
   "keywords": [
     "language",
