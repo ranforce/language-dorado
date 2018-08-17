@@ -1,0 +1,15 @@
+{
+  "name": "language-dorado",
+  "version": "0.0.0",
+  "description": "atom language package for Dorado view.xml ext file",
+  "keywords": [
+    "language",
+    "grammar",
+    "dorado"
+  ],
+  "repository": "https://github.com/ranforce/language-dorado",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
